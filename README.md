@@ -1,1 +1,72 @@
-# Induction-program-
+### GNDEC Ludhiana — Induction Program Report
+
+# Day 1 (30 July 2025)   
+
+---
+
+## 🗓️ Induction Day Summary
+
+### 08:30 – 09:30 AM 🏛 Visit to Gurudwara Sahib  
+We began the day with a peaceful visit to the Gurudwara Sahib situated within the GNDEC campus. It was a spiritually grounding moment to kickstart our journey.
+
+---
+
+### 10:30 – 12:30 PM 🎤 Induction Seminar in the Auditorium  
+The formal induction session was held in the college auditorium and hosted by **Harsimran ma’am**. Several dignitaries and professors addressed us. Below is the summary of the key speakers:
+
+---
+
+#### 1️⃣ **Harsimran Singh Jaggi**  
+**Topic:** About GNDEC’s Establishment  
+- History and legacy of GNDEC  
+- Achievements of the institute  
+- GNDEC’s contribution to society and students' growth  
+- Overview of campus life and available facilities  
+
+---
+
+#### 2️⃣ **Dr. Harpreet Kaur**  
+**Topic:** Role of the First Year and Applied Science  
+- How the four years in college shape our future  
+- Applied Sciences as a bridge between school-level learning and core engineering subjects  
+
+---
+
+#### 3️⃣ **Dr. Akshay Girdhar**  
+**Topic:** Life Beyond Engineering  
+- Importance of extracurriculars  
+- Developing discipline and balance through co-curricular involvement  
+- Encouragement to explore societies and clubs  
+
+---
+
+#### 4️⃣ **Harleen Kaur**  
+**Topic:** Mindset and Purpose  
+- Build a strong and focused mindset  
+- Stay aligned with your goals — the universe supports those with purpose  
+
+---
+
+#### 5️⃣ **Dr. Shehejpal (Principal)**  
+**Topic:** Engineering's Role in Society  
+- Engineers as builders of society  
+- The growing role of AI in industries  
+- Increasing competition in CSE and IT fields  
+- Emphasis on adding value to ourselves beyond academics  
+
+---
+
+#### 6️⃣ **Sri Ravinder Garg (Chief Engineer, Municipal Office)**  
+**Topic:** Personal Discipline  
+- Stay away from distractions and bad habits  
+- Work hard consistently throughout college  
+- Pray daily for mental and spiritual clarity  
+
+---
+
+#### 7️⃣ **Dr. Kulwinder Singh Maan (HOD, IT)**  
+**Topic:** CS vs IT – Clarification  
+- No need to differentiate between CS and IT  
+- Both offer equal opportunities if pursued sincerely  
+
+---# Induction-program-
