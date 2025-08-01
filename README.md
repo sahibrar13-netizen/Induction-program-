@@ -3,6 +3,15 @@
 # Day 1 (30 July 2025)   
 
 ---
+###  Student Details
+
+- **Name:** sahib singh
+- **Father's Name:** jasvinder Singh 
+- **Branch:** Computer Science & Engineering (CSE)  
+- **Registration Number:** 25101958
+- **Mobile:** 9306641547
+- **Email:** sahibrar13@gmail.com 
+---
 
 ## 🗓️ Induction Day Summary
 
@@ -69,4 +78,4 @@ The formal induction session was held in the college auditorium and hosted by **
 - No need to differentiate between CS and IT  
 - Both offer equal opportunities if pursued sincerely  
 
----# Induction-program-
+---
